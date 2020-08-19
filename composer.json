@@ -2,7 +2,7 @@
     "name": "maja/banana",
     "description": "text",
     "type": "oxideshop-module",
-    "license": "GNU",
+    "license": "MIT",
     "authors": [
         {
             "name": "Marek Mantič",
