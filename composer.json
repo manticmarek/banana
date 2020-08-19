@@ -1,0 +1,19 @@
+{
+    "name": "maja/banana",
+    "description": "text",
+    "type": "oxideshop-module",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Marek Mantič",
+            "email": "marek.mantic@artio.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BananaProject\\": "src/" 
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
